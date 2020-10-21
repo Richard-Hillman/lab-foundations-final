@@ -1,0 +1,33 @@
+
+
+
+/* CLASSES -------------------------------------------------------------------- */
+.image-f {
+    position: absolute;
+    top: -35px; 
+    height: 30px;
+    width: auto;
+}
+
+.food {
+    flex-direction: row-reverse;
+    right: 0px;
+    height:30px;
+    width: auto;
+}
+/* IDs -------------------------------------------------------------------- */
+
+#main-octopodes {
+    height: 264px;
+    width: auto;
+    position: absolute;
+    top: 100px;
+    left: 205px;
+}
+
+#body-title {
+    width: 500px;
+    position: absolute;
+    z-index: 90;
+    top: 145px
+}
